@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-<img src="./assets/developer.gif" alt="Image" style="width: 240px;" align="right"/>
+<div align="center">
 
-<div style="text-align: justify;">
+<img src="./assets/developer.gif" alt="Developer" style="width: 280px;"/>
+
+</div>
 
 - I'm a Full stack developer 🧑‍💻 with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!
 - As a passionate & experienced web developer, I bring a unique perspective to creating stunning and user-friendly websites. With a background in both design and programming, I've worked on projects for a range of clients and industries.
 - I love web development because it allows me to bring my creative vision to life while solving real-world problems for clients.
-
-</div>
 
 ## 🌐 Socials:
 
