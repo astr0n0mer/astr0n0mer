@@ -55,9 +55,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
