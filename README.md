@@ -6,9 +6,13 @@
 
 </div>
 
+<div align="justify">
+
 - I'm a Full stack developer 🧑‍💻 with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest!
 - As a passionate & experienced web developer, I bring a unique perspective to creating stunning and user-friendly websites. With a background in both design and programming, I've worked on projects for a range of clients and industries.
 - I love web development because it allows me to bring my creative vision to life while solving real-world problems for clients.
+
+</div>
 
 ## 🌐 Socials:
 
@@ -57,9 +61,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" decoding="async" loading="lazy" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=react&hide_border=false" alt="" decoding="async" loading="lazy" />
+<br/>
+<img src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" decoding="async" loading="lazy" />
 
 </div>
 
@@ -67,7 +73,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=astr0n0mer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=astr0n0mer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="" decoding="async" loading="lazy" />
 
 </div>
 
@@ -75,7 +81,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="" decoding="async" loading="lazy" />
 
 ---
 
