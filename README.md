@@ -75,12 +75,14 @@
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="" decoding="async" loading="lazy" />
-
-<hr/>
-
-[![](https://visitcount.itsvg.in/api?id=astr0n0mer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Handcrafted with 💖 by [Imran Khan](https://github.com/astr0n0mer)
+    <hr/>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=astr0n0mer&icon=0&color=0" alt="" decoding="async" loading="lazy" />
+    </a>
+    <p>
+        Handcrafted with 💖 by
+        <a href="https://github.com/astr0n0mer">Imran Khan</a>
+    </p>
 
 </div>
 
