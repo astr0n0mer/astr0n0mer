@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/developer.gif" alt="Developer" style="width: 280px;"/>
+<img src="./assets/developer-300px.gif" alt="Developer" style="width: 280px;"/>
 
 </div>
 
