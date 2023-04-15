@@ -17,8 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrankhan404)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astronomer404)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:imran2000786@gmail.com)
-[![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/astr0n0mer)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%233F54A3.svg?style=flat&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/astr0n0mer)
+[![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/astr0n0mer)
+[![CSSBattle](https://img.shields.io/badge/CSSBattle-%230f1117?style=flat&logo=cssbattle&logoColor=%23ffdf00)](https://cssbattle.dev/player/astronomer)
 [![Stack Overflow](https://img.shields.io/badge/-stack%20overflow-%23FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7753274)
 
 <br />
@@ -74,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="" decoding="async" loading="lazy" />
+    <img src="https://github-trophies.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="" decoding="async" loading="lazy" />
     <hr/>
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=astr0n0mer&icon=0&color=0" alt="" decoding="async" loading="lazy" />
