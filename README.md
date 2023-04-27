@@ -38,6 +38,7 @@
 ![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=React&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23a058fe.svg?style=flat&logo=vite&logoColor=ffd129)
 
