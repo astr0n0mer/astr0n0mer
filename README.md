@@ -28,29 +28,34 @@
 
 # 💻 Tech Stack:
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/python-%233670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-%233670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
 <!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/) -->
 
-[![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=React&logoColor=black)](https://react.dev/)
+[![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Styled Components](https://img.shields.io/badge/Styled%20Components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
 <!-- [![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/) -->
 <!-- [![Vite](https://img.shields.io/badge/Vite-%23a058fe.svg?style=flat&logo=vite&logoColor=ffd129)](https://vitejs.dev/) -->
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PocketBase](https://img.shields.io/badge/PocketBase-%23B8DBE4.svg?style=flat&logo=PocketBase&logoColor=black)](https://pocketbase.io/)
+
 <!-- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) -->
 <!-- [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/) -->
 
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
-<!-- [![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=Netlify&logoColor=white)](https://www.netlify.com/) -->
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=Netlify&logoColor=white)](https://www.netlify.com/)
+
 <!-- [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=flat&logo=Azure-DevOps&logoColor=white)](https://azure.microsoft.com/products/devops) -->
 
 <!-- [![Babel](https://img.shields.io/badge/Babel-%23F9DC3e?style=flat&logo=babel&logoColor=black)](https://babeljs.io/) -->
@@ -62,23 +67,55 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" decoding="async" loading="lazy" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=react&hide_border=false" alt="" decoding="async" loading="lazy" />
-    <br/>
-    <img src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" decoding="async" loading="lazy" />
+    <a href="https://github.com/astr0n0mer/">
+        <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&rank_icon=github&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+    </a>
+    <a href="https://github.com/astr0n0mer/">
+        <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </a>
+    <!-- <img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" decoding="async" loading="lazy" /> -->
+    <!-- <img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&rank_icon=github&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" align="center" width="400" height="200" /> -->
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=react&hide_border=false" alt="" decoding="async" loading="lazy" /> -->
+    <!-- <img src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" align="center" width="400" height="200" /> -->
 </div>
+
+<br />
 
 ### 🔝 Top Contributed Repo
 
+<br />
+
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=astr0n0mer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="" decoding="async" loading="lazy" />
+
+<a href="https://github.com/astr0n0mer/shareme">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=shareme&theme=tokyonight" width="400" />
+</a>
+<a href="https://github.com/astr0n0mer/workflow">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=workflow&theme=tokyonight" width="400" />
+</a>
+<a href="https://github.com/astr0n0mer/bookspot">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=bookspot&theme=tokyonight" width="400" />
+</a>
+<a href="https://github.com/astr0n0mer/movieland">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=movieland&theme=tokyonight" width="400" />
+</a>
+<a href="https://github.com/astr0n0mer/challenges-frontendmentor.io">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=challenges-frontendmentor.io&theme=tokyonight" width="400" />
+</a>
+<a href="https://github.com/astr0n0mer/taskmate">
+    <img src="https://github-readme-stats-astronomer.vercel.app/api/pin/?username=astr0n0mer&repo=taskmate&theme=tokyonight" width="400" />
+</a>
+<!-- <img src="https://github-contributor-stats.vercel.app/api?username=astr0n0mer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="" decoding="async" loading="lazy" /> -->
 </div>
+
+<br />
 
 ## 🏆 GitHub Trophies
 
+<br />
+
 <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="" decoding="async" loading="lazy" />
+    <img src="https://github-trophies.vercel.app/?username=astr0n0mer&theme=discord&no-frame=false&no-bg=false&margin-w=8&row=1" alt="" decoding="async" loading="lazy" />
     <hr/>
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=astr0n0mer&icon=0&color=0" alt="" decoding="async" loading="lazy" />
