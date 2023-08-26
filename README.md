@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrankhan404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrank404)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astronomer404)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:imran2000786@gmail.com)
 
