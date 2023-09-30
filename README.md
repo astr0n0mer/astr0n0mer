@@ -30,7 +30,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-%233670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -46,6 +46,7 @@
 <!-- [![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/) -->
 <!-- [![Vite](https://img.shields.io/badge/Vite-%23a058fe.svg?style=flat&logo=vite&logoColor=ffd129)](https://vitejs.dev/) -->
 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PocketBase](https://img.shields.io/badge/PocketBase-%23B8DBE4.svg?style=flat&logo=PocketBase&logoColor=black)](https://pocketbase.io/)
 
