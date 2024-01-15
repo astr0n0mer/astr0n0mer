@@ -111,6 +111,16 @@
 
 <br />
 
+### 🌳 Digital Garden
+
+<br />
+
+<a href="https://dgarden.vercel.app/#/graph">
+    <img src="https://github.com/astr0n0mer/astr0n0mer/assets/42691857/36c5ba61-07a1-4099-a9c1-4a7a8d0c4ee0" alt="Digital Garden Knowledge Graph" style="width: min(1000px, 100vw);" />
+</a>
+
+<br />
+
 ## 🏆 GitHub Trophies
 
 <br />
