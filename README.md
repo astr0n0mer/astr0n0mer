@@ -69,10 +69,12 @@
 
 <div align="center">
     <a href="https://github.com/astr0n0mer/">
-        <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&rank_icon=github&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+        <!-- <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&rank_icon=github&theme=react&hide_border=false&include_all_commits=true&count_private=true" /> -->
+        <img height=200 align="center" src="https://github-readme-stats-sahr.vercel.app/api?username=astr0n0mer&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/astr0n0mer/">
-        <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <!-- <img height=200 align="center" src="https://github-readme-stats-astronomer.vercel.app/api/top-langs/?username=astr0n0mer&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astr0n0mer&theme=tokyonight" />
     </a>
     <!-- <img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" decoding="async" loading="lazy" /> -->
     <!-- <img src="https://github-readme-stats-astronomer.vercel.app/api?username=astr0n0mer&rank_icon=github&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="" align="center" width="400" height="200" /> -->
