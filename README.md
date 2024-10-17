@@ -84,6 +84,16 @@
 
 <br />
 
+### 🤝 OSS Involvement
+
+<br />
+
+| [Pull Requests](https://github.com/search?q=author%3Aastr0n0mer+-user%3Aastr0n0mer+-user%3Aproceduretech+-user%3Atimelyschools+-user%3AWorkshop-Ventures&type=pullrequests&s=updated&o=desc) | [Issues](https://github.com/search?q=is%3Aissue+commenter%3Aastr0n0mer+-user%3Aastr0n0mer&type=issues&s=updated&o=desc) |
+| --- | --- |
+| [![Pull Requests](./assets/oss_pull_requests.png)](https://github.com/search?q=author%3Aastr0n0mer+-user%3Aastr0n0mer+-user%3Aproceduretech+-user%3Atimelyschools+-user%3AWorkshop-Ventures&type=pullrequests&s=updated&o=desc) | [![Issues](./assets/oss_involved_issues.png)](https://github.com/search?q=is%3Aissue+commenter%3Aastr0n0mer+-user%3Aastr0n0mer&type=issues&s=updated&o=desc) |
+
+<br />
+
 ### 🔝 Top Contributed Repo
 
 <br />
