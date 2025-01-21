@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrank404)
-[![Twitter](https://img.shields.io/badge/Twitter-%23181717.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/imrank404)
+[![X](https://img.shields.io/badge/X-%23181717.svg?style=flat&logo=X&logoColor=white)](https://x.com/imrank404)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:imran2000786@gmail.com)
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%233F54A3.svg?style=flat&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/astr0n0mer)
