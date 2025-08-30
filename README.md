@@ -24,13 +24,14 @@
 [![CSSBattle](https://img.shields.io/badge/CSSBattle-%230f1117?style=flat&logo=cssbattle&logoColor=%23ffdf00)](https://cssbattle.dev/player/astronomer)
 [![Stack Overflow](https://img.shields.io/badge/-stack%20overflow-%23FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7753274)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/astr0n0mer)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/astr0n0mer)
 
 <br />
 
 # 💻 Tech Stack:
 
 [![HTML5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS%203-%231572B6.svg?style=flat&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-%233670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
