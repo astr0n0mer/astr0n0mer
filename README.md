@@ -14,9 +14,10 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrank404)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:erimran404+g@gmail.com)
 [![X](https://img.shields.io/badge/X-%23181717.svg?style=flat&logo=X&logoColor=white)](https://x.com/imrank404)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:imran2000786@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrank404)
+[![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?logo=peerlist&logoColor=white)](https://peerlist.io/imrank/resume)
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%233F54A3.svg?style=flat&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/astr0n0mer)
 [![Codepen](https://img.shields.io/badge/Codepen-%23000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/astr0n0mer)
